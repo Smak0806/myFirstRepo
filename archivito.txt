@@ -1,3 +1,7 @@
 escrito por master
 
+<<<<<<< HEAD
 esto lo escribio rama1
+=======
+esto lo escribió rama2
+>>>>>>> rama2
