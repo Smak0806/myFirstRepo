@@ -1,5 +1,6 @@
 escrito por master
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10,3 +11,6 @@ esto lo escribio rama3
 =======
 esto lo escribió rama2
 >>>>>>> rama2
+=======
+esto lo escribio-o rama1
+>>>>>>> rama1
