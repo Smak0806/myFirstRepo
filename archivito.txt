@@ -2,7 +2,11 @@ escrito por master
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 esto lo escribio rama3
 >>>>>>> rama3
+=======
+esto lo escribió rama2
+>>>>>>> rama2
